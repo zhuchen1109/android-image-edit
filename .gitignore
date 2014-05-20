@@ -215,3 +215,4 @@ pip-log.txt
 .mr.developer.cfg
 /src_lib
 /gen
+/src_imageedit_lib
